@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{43391E08-B7CE-4D2D-B5FF-AB7FEA62E2AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Northwind.WebApi/Controllers/TokenController.cs">
+    <Files>
+      <File FileName="Northwind.DataAccess/CustomerRepository.cs" Line="1" Column="1" />
+      <File FileName="Northwind.Repositories/IUserRepository.cs" Line="9" Column="6" />
+      <File FileName="Northwind.DataAccess/UserRepository.cs" Line="27" Column="23" />
+      <File FileName="Northwind.Repositories/IRepository.cs" Line="1" Column="1" />
+      <File FileName="Northwind.UnitOfWork/IUnitOfWork.cs" Line="11" Column="14" />
+      <File FileName="Northwind.DataAccess/NorthwindUnitOfWork.cs" Line="14" Column="28" />
+      <File FileName="Northwind.WebApi/Controllers/TokenController.cs" Line="4" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NorthwindSolution" expanded="True">
+            <Node name="Data" expanded="True">
+              <Node name="Northwind.DataAccess" expanded="True" />
+              <Node name="Northwind.Repositories" expanded="True" />
+              <Node name="Northwind.UnitOfWork" expanded="True" />
+            </Node>
+            <Node name="Web" expanded="True">
+              <Node name="Northwind.WebApi" expanded="True">
+                <Node name="Controllers" expanded="True">
+                  <Node name="TokenController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Web.Northwind.WebApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
