@@ -1,0 +1,9 @@
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.Models\bin\Debug\netcoreapp2.0\Northwind.Models.deps.json
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.Models\bin\Debug\netcoreapp2.0\Northwind.Models.dll
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.Models\bin\Debug\netcoreapp2.0\Northwind.Models.pdb
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp2.0\Northwind.Models.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp2.0\Northwind.Models.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp2.0\Northwind.Models.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp2.0\Northwind.Models.AssemblyInfo.cs
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp2.0\Northwind.Models.dll
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.Models\obj\Debug\netcoreapp2.0\Northwind.Models.pdb

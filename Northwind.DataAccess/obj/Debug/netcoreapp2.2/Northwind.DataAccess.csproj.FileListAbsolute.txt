@@ -1,0 +1,16 @@
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.2\Northwind.DataAccess.deps.json
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.2\Northwind.DataAccess.dll
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.2\Northwind.DataAccess.pdb
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp2.2\Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp2.2\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp2.2\Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp2.2\Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp2.2\Northwind.DataAccess.dll
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp2.2\Northwind.DataAccess.pdb
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.2\Northwind.Models.dll
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.2\Northwind.Repositories.dll
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.2\Northwind.Repositories.pdb
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.2\Northwind.Models.pdb
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp2.2\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.2\Northwind.UnitOfWork.dll
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.2\Northwind.UnitOfWork.pdb

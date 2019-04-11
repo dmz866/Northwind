@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp2.2\Northwind.UnitOfWork.deps.json
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp2.2\Northwind.UnitOfWork.dll
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp2.2\Northwind.UnitOfWork.pdb
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.2\Northwind.UnitOfWork.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.2\Northwind.UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.2\Northwind.UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.2\Northwind.UnitOfWork.AssemblyInfo.cs
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.2\Northwind.UnitOfWork.dll
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.2\Northwind.UnitOfWork.pdb
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp2.2\Northwind.Models.dll
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp2.2\Northwind.Repositories.dll
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp2.2\Northwind.Repositories.pdb
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp2.2\Northwind.Models.pdb
+C:\Users\David\Desktop\Estudios\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.2\Northwind.UnitOfWork.csproj.CopyComplete
